@@ -1,0 +1,51 @@
+<root>
+  <License id="Terms">
+    <ClientProvidedVersion Value="5.2.1f1"/>
+    <DeveloperData Value="AQAAAEYzLVhLODMtNVFHQi02NzRDLVFGTVQtN0dRQg=="/>
+    <Features>
+      <Feature Value="1"/>
+      <Feature Value="3"/>
+      <Feature Value="12"/>
+      <Feature Value="17"/>
+      <Feature Value="19"/>
+      <Feature Value="24"/>
+      <Feature Value="33"/>
+      <Feature Value="36"/>
+      <Feature Value="62"/>
+    </Features>
+    <InitialActivationDate Value="2016-02-09T11:59:41"/>
+    <LeaseExpiryDate Value=""/>
+    <LicenseVersion Value="5.x"/>
+    <MachineBindings>
+      <Binding Key="1" Value="00392-918-5000002-85461"/>
+      <Binding Key="4" Value="UjIwMTA0NzE="/>
+      <Binding Key="2" Value="WD-WCAT24551924"/>
+    </MachineBindings>
+    <MachineID Value="5XUfv1HBILg7egMgrdzTY68e6X0="/>
+    <SerialHash Value="c04ce660d133c0985a534b3629d6c0cd9c29636d"/>
+    <SerialMasked Value="F3-XK83-5QGB-674C-QFMT-XXXX"/>
+    <StartDate Value=""/>
+    <StopDate Value=""/>
+    <UpdateDate Value="2016-02-10T11:59:41"/>
+  </License>
+
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#Terms">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>SJsVweWQEKRYySt/2QCqEc7YXBk=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>KBAUq+LEkS5sfo5iadeEH8LaK09oBS0BNnb4Q9YKLQDhGm7jwm5Dloxf4fW+OI11
+BP9lOHE+tVAnK7Esfwm1crEteLDqUM2tRXyjiE5iLne50j+l+wcTfAnXesQWlEJX
+gduXn/psRBtGV2+14kOzfakoB3oMqPfVoTgNcKLmVIuG/lMymkKZQAC5KpjHO3o5
+tUYE3TQxl8IoXXDMtpn9XaGqstbGK5DJFMkNWGyLNZJmaxJdN2+h36BFmwapAQPv
+LuSl6/Ts/aWFe3nWfm+70dA7+uECKnEc1mi9UKRZA9+YjS2c87y2q3sc7kpUF1Lo
+aDiWu2QrvtwDc9135GN6Kw==</SignatureValue>
+</Signature>
+</root>
